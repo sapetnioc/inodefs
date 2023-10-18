@@ -1,4 +1,4 @@
-# inodefs
+# inodesfs
 
 Experiments to build a virtual file system based on fuse that can store huge numbers of files with a limited number of inodes on the real file system.
 
